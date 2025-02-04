@@ -22,7 +22,7 @@ A página contém as seguintes seções:
 ### Screenshots do Site
 
 ![banner inicial do site 🖼️](img/foto_site_desktop.png)
-![banner inicial do site 🖼️](img/foto_site_mobile1.png)
-![banner inicial do site 🖼️](img/foto_site_mobile2.png)
+![banner inicial do site 🖼️](img/foto_site_mobile1.jpg)
+![banner inicial do site 🖼️](img/foto_site_mobile2.jpg)
 
 <samp> site: https://itsleila.github.io/RedeSocialLandingpage/ </samp>
